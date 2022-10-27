@@ -8,7 +8,7 @@
 	<br/>
 	<br/>
 	<center><h2>Wirausaha Jayabadi</h2></center>
-	<center><h2>KOMUNITAS Wirausaha</h2></center>		
+	<center><h2>KOMUNITAS Wiccccccccccccrausaha</h2></center>		
 	<br/>
 	<div class="login">
 	<br/>
